@@ -1,0 +1,6 @@
+openai
+langchain
+langchain_openai
+faiss-cpu
+PyPDF2
+numpy
